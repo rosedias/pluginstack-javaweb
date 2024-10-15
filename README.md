@@ -1,17 +1,6 @@
-<!-- 
-******************************************
+## javaweb
 
-- ESTE É APENAS UM EXEMPLO DE COMO PREENCHER A DOCUMENTAÇÃO DO SEU CONTEUDO. 
-
-- PREENCHA O TEMPLATE COM AS INFORMAÇÕES DO SEU CONTEUDO PARA QUE OUTROS USUÁRIO CONSIGAM UTILIZÁ-LO. ESSA DOCUMENTAÇÃO SERÁ EXPOSTA NA PÁGINA DO CONTEUDO NO PORTAL DA STACKSPOT. 
-
-******************************************
--->
-
-## Java Web
-
-Plugin para inicializar um projeto de automação Java Web.
-
+ Esse plugin contém o skelleton de um projeto de automação Java Web.
 
 ## Pré-requisitos
 
@@ -24,8 +13,6 @@ Criar um novo projeto java com o plugin, utilizar comando:
 ```
 stk apply plugin qa-corp/java@1.0.0/javaweb
 ```
-
-* Atenção, verifique qual melhor versão se aplica ao seu projeto.
 
 ## Release Notes
 
