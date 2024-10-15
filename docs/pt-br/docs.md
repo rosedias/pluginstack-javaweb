@@ -12,7 +12,6 @@
 
 Plugin para inicializar um projeto de automação Java Web.
 
-
 ## Pré-requisitos
 
 Ter instalado a versão do java sdk que deseja implantar o plugin, o mesmo oferece as opção de versão javasdk: 11, 17  e 21.
@@ -22,7 +21,7 @@ Ter instalado a versão do java sdk que deseja implantar o plugin, o mesmo ofere
 Criar um novo projeto java com o plugin, utilizar comando:
 
 ```
-stk apply plugin qa-corp/java@1.0.0/javaweb
+stk apply plugin qa-corp/java@1.0.0/java-web
 ```
 
 * Atenção, verifique qual melhor versão se aplica ao seu projeto.

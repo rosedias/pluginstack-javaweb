@@ -8,29 +8,29 @@ metadata:
 spec:
   type: app
   compatibility:
-    - python
+    - java
   docs:
-    pt-br: docs/pt-br/docs.md
     en-us: docs/en-us/docs.md
+    pt-br: docs/pt-br/docs.md
   single-use: False
   repository: https://github.com/rosedias/pluginstack-javaweb.git
-  technologies: # Ref: https://docs.stackspot.com/create-use/create-content/yaml-files/plugin-yaml/#technologies-1
-    - Java
+  technologies: 
+    - "java"
   inputs:
     - label: Nome do Projeto
-      name: project_name
+      name: Nome-do-Projeto
       type: text
       required: true
       default: java-app
       help: 'Informe o nome do projeto Java'
     - label: Versao Java
-      name: version_java
+      name: version-java
       type: select
       items:
-        - 8
-        - 11
-        - 17
-        - 22
-      default: 22
+        - "8"
+        - "11"
+        - "17"
+        - "22"
+      default: "22"
       required: true
       help: 'Selecione a versão do Java'
