@@ -4,14 +4,16 @@
 
 ## Pré-requisitos
 
-Ter instalado a versão do java sdk que deseja implantar o plugin, o mesmo oferece as opção de versão javasdk: 11, 17  ou 22.
+Ter instalado a versão do java sdk que deseja implantar o plugin, o mesmo oferece as opção de versão javasdk: 11, 17  ou 21.
 
 ## Uso
 
 Criar um novo projeto java com o plugin, utilizar comando:
 
 ```
-stk apply plugin qa-corp/java@1.0.0/java-web
+Versão 1: stk apply plugin qa-corp/java@1.0.0/java-web@0.0.1
+Versão 2: stk apply plugin qa-corp/java@1.1.0/java-web@0.0.2
+Versão 3: stk apply plugin qa-corp/java@1.1.0/java-web@0.0.3
 ```
 
 ## Release Notes
