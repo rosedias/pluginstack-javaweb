@@ -24,7 +24,9 @@ Plugin para inicializar um projeto de automação Java Web.
 Criar um novo projeto java com o plugin, utilizar comando:
 
 ```
-stk apply plugin qa-corp/java@1.0.0/java-web
+Versão 1: stk apply plugin qa-corp/java@1.0.0/java-web@0.0.1
+Versão 2: stk apply plugin qa-corp/java@1.1.0/java-web@0.0.2
+Versão 3: stk apply plugin qa-corp/java@1.1.0/java-web@0.0.3
 ```
 
 * Atenção, verifique qual melhor versão se aplica ao seu projeto.
