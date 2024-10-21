@@ -4,7 +4,7 @@ metadata:
   name: java-web
   display-name: java-web
   description: Plugin para inicializar um Projeto de Automação Java Web.
-  version: 0.0.1
+  version: 0.0.2
 spec:
   type: app
   compatibility:

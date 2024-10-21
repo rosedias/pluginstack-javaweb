@@ -1,11 +1,13 @@
-
 ## Java Web
 
 Plugin para inicializar um projeto de automação Java Web.
 
 ## Pré-requisitos
 
-Ter instalado a versão do java sdk que deseja implantar o plugin, o mesmo oferece as opção de versão javasdk: 11, 17 ou 22.
+* Ter instalado a versão do java sdk que deseja implantar o plugin, o mesmo oferece as opção de versão javasdk: 11, 17 ou 21;
+* Postgres Sql;
+* PgAdmin III.
+
 
 ## Uso
 
